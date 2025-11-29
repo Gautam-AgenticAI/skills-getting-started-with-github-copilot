@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+
+# Testing
+pytest
+requests
+
+# HTTP client required by starlette.testclient
+httpx
